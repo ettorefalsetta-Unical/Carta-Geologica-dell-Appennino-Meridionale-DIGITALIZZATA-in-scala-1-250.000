@@ -16,7 +16,7 @@ IL DATASET INCLUDE:
 
 5.  Progetto QGIS: File di progetto QGIS (.qgz) contenente tutti i layer e le impostazioni per un facile accesso e manipolazione dei dati.
 
-DOI REPOSITORY
+DOI REPOSITORY: <a href="https://doi.org/10.5281/zenodo.16747646"><img src="https://zenodo.org/badge/1032669282.svg" alt="DOI"></a>
 
 Bibliografia: Carta geologica dell’Appennino meridionale 1:250.000. In: BONARDI G., D’ARGENIO B. & PERRONE V. (Ed.). 74° Congresso della Società Geologica Italiana, Sor-rento 13-17 settembre 1988 / Bonardi, Glauco; D’Argenio, B.; DI NOCERA, Silvio; Marsella, E.; Pappone, G.; Perrone, V.; Pescatore, T. S.; Senatore, M. R.; Sgrosso, Italo; Ciaranfi, N. PIERI P.; Ricchetti, G.; Brancaccio, Ludovico; Cinque, Aldo; Morra, Vincenzo; Ortolani, Franco; Torre, Mario; Amore, F. O.; Ciampo, Giuliano; DE CAPOA, Paola; Taddei, E.. - STAMPA. - (1988). https://hdl.handle.net/11588/351003
 
@@ -41,6 +41,6 @@ THE DATASET INCLUDES:
 
 5. QGIS Project: QGIS project file (.qgz) containing all layers and settings for easy access and data manipulation.
 
-DOI REPOSITORY
+DOI REPOSITORY: <a href="https://doi.org/10.5281/zenodo.16747646"><img src="https://zenodo.org/badge/1032669282.svg" alt="DOI"></a>
 
 Bibliography: Carta geologica dell’Appennino meridionale 1:250.000. In: BONARDI G., D’ARGENIO B. & PERRONE V. (Ed.). 74° Congresso della Società Geologica Italiana, Sor-rento 13-17 settembre 1988 / Bonardi, Glauco; D’Argenio, B.; DI NOCERA, Silvio; Marsella, E.; Pappone, G.; Perrone, V.; Pescatore, T. S.; Senatore, M. R.; Sgrosso, Italo; Ciaranfi, N. PIERI P.; Ricchetti, G.; Brancaccio, Ludovico; Cinque, Aldo; Morra, Vincenzo; Ortolani, Franco; Torre, Mario; Amore, F. O.; Ciampo, Giuliano; DE CAPOA, Paola; Taddei, E.. - STAMPA. - (1988). https://hdl.handle.net/11588/351003
