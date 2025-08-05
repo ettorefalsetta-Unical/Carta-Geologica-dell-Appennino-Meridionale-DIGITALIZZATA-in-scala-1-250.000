@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: >-
+  Carta Geologica dell'Appennino Meridionale, scala 1:250.000, in
+  formato vettoriale
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ettore
+    family-names: Falsetta
+    email: ettore.falsetta@unical.it
+    affiliation: >-
+      Università della Calabria - Dipartimento di Ingegneria
+      dell'Ambiente
+    orcid: 'https://orcid.org/0000-0001-7195-6868'
+doi: 10.5281/zenodo.16747647
+version: '1.0'
+date-released: '2025-08-05'
+url: https://github.com/ettorefalsetta-Unical/Carta-Geologica-dell-Appennino-Meridionale-DIGITALIZZATA-in-scala-1-250.000
