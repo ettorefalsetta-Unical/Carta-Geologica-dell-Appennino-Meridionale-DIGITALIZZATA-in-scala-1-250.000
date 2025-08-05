@@ -2,7 +2,7 @@
 Carta geologica dell’Appennino meridionale 1:250.000 (BONARDI et al., 1988) in formato vettoriale, con progetto Qgis disponibile
 
 Se utilizzi questo dataset, ti preghiamo di citarlo attraverso il DOI del repository: 
-
+Falsetta, E. (2025). Carta Geologica dell'Appennino Meridionale, scala 1:250.000, in formato vettoriale (Version 1.0) [Data set]. https://doi.org/10.5281/zenodo.16747647
 
 IL DATASET INCLUDE:
 
@@ -28,6 +28,7 @@ Bibliografia: Carta geologica dell’Appennino meridionale 1:250.000. In: BONARD
 Geological map of the Southern Apennines 1:250,000 (BONARDI et al., 1988) in vector format, with available Qgis project
 
 If you use this dataset, please cite it through the repository's DOI:
+Falsetta, E. (2025). Carta Geologica dell'Appennino Meridionale, scala 1:250.000, in formato vettoriale (Version 1.0) [Data set]. https://doi.org/10.5281/zenodo.16747647
 
 THE DATASET INCLUDES:
 
